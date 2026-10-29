@@ -19,7 +19,7 @@ Estudiante de **Desarrollo de Software** enfocado en el desarrollo de aplicacion
 * **Bases de datos:** PostgreSQL, MySQL
 * **Herramientas:** Git, GitHub, Docker
 * **Conocimientos académicos:** PHP (Laravel)
-* **Áreas de interés:** Redes informáticas, mantenimiento preventivo y correctivo de hardware, optimización de sistemas
+* **Áreas de interés:** Desarrollo de software, Redes informáticas, soporte técnico
 
 ---
 
