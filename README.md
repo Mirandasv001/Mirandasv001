@@ -15,7 +15,7 @@ Estudiante de **Desarrollo de Software** con especial interés en la creación d
 
 ### 💻 Habilidades y Tecnologías
 
-* **Lenguajes:** C#, Python
+* **Lenguajes:** C#, Python, Javascript
 * **Bases de datos:** PostgreSQL, MySQL
 * **Control de versiones y herramientas:** Git, GitHub, Docker
 * **Áreas de interés:** Redes de datos, arquitectura básica de software, soporte y optimización de equipos
