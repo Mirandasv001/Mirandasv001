@@ -6,7 +6,7 @@ Estudiante de **Desarrollo de Software** enfocado en el desarrollo de aplicacion
 
 * **Proyecto en producción:** Diseñé e implementé un [**sistema de gestión de biblioteca**](https://github.com/Mirandasv001/sistema-bibliotecario-cubo-orellana) en C# (.NET), actualmente en funcionamiento en el CUBO Ing. Rigoberto Orellana para el inventario y control de préstamos.
 * **Formación en redes:** Completé 3 módulos de **Cisco CCNA** en la academia ITCA, adquiriendo bases sólidas de enrutamiento, conmutación y configuración de infraestructura de red.
-* **Impacto comunitario (Trabajo actual):** Actualmente trabajo en el CUBO, donde me encargo de la configuración y limpieza de las computadoras, asegurando que todo funcione bien para la comunidad o reportando si algo se daña. También imparto capacitaciones de computación básica y ofimática para los usuarios.
+* **Impacto comunitario:** Actualmente trabajo en el CUBO, donde me encargo de la configuración y limpieza de las computadoras, asegurando que todo funcione bien para la comunidad o reportando si algo se daña. También imparto capacitaciones de computación básica y ofimática para los usuarios.
 * **Flujo de trabajo y productividad:** Adopto herramientas y agentes de inteligencia artificial para optimizar tiempos de depuración, documentación e investigación de soluciones técnicas.
 * **Objetivo:** En búsqueda de mi primera oportunidad laboral formal como **programador junior**, en **redes informáticas** o en **soporte técnico**.
 
