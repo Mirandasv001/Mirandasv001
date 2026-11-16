@@ -21,5 +21,5 @@ Estudiante de **Desarrollo de Software** enfocado en el desarrollo de aplicacion
 
 ## Contacto
 
-* **LinkedIn:** [Mi Perfil de LinkedIn](#)
+* **LinkedIn:** in/erickmiranda-sv
 * **Correo:** erickalexanders86@gmail.com
